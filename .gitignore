@@ -1,0 +1,13 @@
+.DS_S*
+.
+..
+.bash_history
+.bashrc
+.gitconfig
+.pki
+.profile
+.ssh
+.viminfo
+
+node_modules
+*.log
