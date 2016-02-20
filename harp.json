@@ -1,6 +1,6 @@
 {
   "globals": {
-    "title": "UCSD Devaraj Lab",
+    "title": "Artificial Cells MURI",
     "navbar": {
       "paths": [{
           "url": "/",
@@ -23,12 +23,8 @@
           "name": "News"
         },
         {
-          "url": "/outreach",
-          "name": "Outreach"
-        },
-        {
-          "url": "/funding",
-          "name": "Funding"
+          "url": "/events",
+          "name": "Events"
         }]
     }
   }
