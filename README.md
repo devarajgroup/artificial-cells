@@ -1,6 +1,6 @@
 # Devaraj Website
 
-This is a website for the Devaraj Research Group @ UCSD. The site is constructed using the static site generator [Harp]().
+This is a website for the Artificial Cells MURI effort, a collaboration between UCSD, Harvard, and Colorado Boulder. The site is constructed using the static site generator [Harp]().
 
 
 ### Global Variables
@@ -15,4 +15,4 @@ Found in harp.json, under the `globals` key.
 
 ### Debugging tips (For whoever is in charge of the website)
 
-- If your stylesheets / jade files aren't compiling correctly, make sure the spacing in your sass and jade files is right! Harp is decidely very picky about spacing, so leaving out a space can make all the difference. For example, `###title` is different from `### title`. Same will apply to sass files; make sure the attributes and values are separated by a single space. 
+- If your stylesheets / jade files aren't compiling correctly, make sure the spacing in your sass and jade files is right! Harp is decidely very picky about spacing, so leaving out a space can make all the difference. For example, `###title` is different from `### title`. Same will apply to sass files; make sure the attributes and values are separated by a single space.
