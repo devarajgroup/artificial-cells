@@ -5,8 +5,8 @@ mixin employee(name, email, picture, title, cv)
     h5(style="margin-bottom:5px")= name
     p.namecard= title
     p.namecard.email= email
-    if cv != ""
-      a.btn.btn-primary.btn-block(href=cv) Curriculum Vitae
+    //- if cv
+      //- a.btn.btn-primary.btn-block(href=cv style="margin-bottom:15px") CV
 
 link(rel="stylesheet" href="/css/people.css")
 - data = public.people._data.index

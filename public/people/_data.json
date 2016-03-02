@@ -4,12 +4,36 @@
       "type": "Faculty",
       "members": [{
         "name": "Neal K. Devaraj",
-        "title": "Principal Investigator",
         "email": "ndevaraj@ucsd.edu",
         "picture": "./images/faculty/neal.png",
-        "title": "Principal Investigator",
         "cv": "./devaraj_cv.pdf"
-      }]
+      },
+      {
+        "name": "Jeff Hasty",
+        "email": "hasty@ucsd.edu",
+        "picture": "./images/faculty/hasty.png"
+      },
+      {
+        "name": "Lev Tsimring",
+        "email": "ltsimring@ucsd.edu",
+        "picture": "./images/faculty/lev.jpg"
+      },
+      {
+        "name": "Joseph Simpson",
+        "email": "sjoseph@ucsd.edu",
+        "picture": "./images/faculty/joe.png"
+      },
+      {
+        "name": "Vinothan Manoharan",
+        "email": "vnm@seas.harvard.edu",
+        "picture": "./images/faculty/vino.jpg"
+      },
+      {
+        "name": "Christopher Bowman",
+        "email": "christopher.bowman@colorado.edu",
+        "picture": "./images/faculty/chris.jpg"
+      }
+    ]
     },
 
     "fellows": {

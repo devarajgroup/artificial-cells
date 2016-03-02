@@ -7,8 +7,38 @@
           "name": "Home"
         },
         {
-          "url": "/research",
-          "name": "Research"
+          "url": "/overview",
+          "name": "Overview",
+          "subsections": [
+            {
+              "name": "Introduction",
+              "url": "/overview"
+            },
+            {
+              "name": "Thrust 1",
+              "url": "/overview/#thrust1"
+            },
+            {
+              "name": "Thrust 2",
+              "url": "/overview/#thrust2"
+            },
+            {
+              "name": "Thrust 3",
+              "url": "/overview/#thrust3"
+            },
+            {
+              "name": "Thrust 4",
+              "url": "/overview/#thrust4"
+            },
+            {
+              "name": "Thrust 5",
+              "url": "/overview/#thrust5"
+            },
+            {
+              "name": "Thrust 6",
+              "url": "/overview/#thrust6"
+            }
+          ]
         },
         {
           "url": "/papers",

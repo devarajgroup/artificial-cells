@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Website for Professor Devaraj @ UCSD",
   "main": "compile.js",
-  "dependencies": {},
+  "dependencies": {
+    "harp": "^0.20.1"
+  },
   "devDependencies": {},
   "scripts": {
     "compile": "node compile.js"
